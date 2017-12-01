@@ -1,0 +1,11 @@
+f535b79fc2e1c5cedda43fcb7297158a *DESCRIPTION
+75251621b45ed6956d4f8938c99c3482 *NAMESPACE
+3b7bd448884fa267661b5b48346b42a4 *R/perturbR-data.R
+d3ef052e3e743043d45191a87a053801 *R/perturbR-pkg.R
+281de049a37e8380de7bf708d456a00f *R/perturbR.R
+9907fc1e06944e35bc069eb07dbbf53d *R/rewireR.R
+0a3c4de0838e991b53d6a3434c6b26b9 *README.md
+0e176aa377a7043fc4ecc4b750d42002 *data/exampledata.RData
+19f9c3d52ee88f9732db3306e34a725b *man/exampledata.Rd
+7e989ce321d7350df020e33ee29587ef *man/perturbR-package.Rd
+a1df3d509b72a38777ba6e81c6f46f2c *man/perturbR.Rd

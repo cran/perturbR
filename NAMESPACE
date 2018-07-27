@@ -2,12 +2,8 @@
 
 export(perturbR)
 export(rewireR)
-import(dils)
 import(ggplot2)
 import(igraph)
-import(mcclust)
-importFrom(graphics,arrows)
 importFrom(graphics,lines)
 importFrom(graphics,points)
 importFrom(stats,rbinom)
-importFrom(stats,sd)
